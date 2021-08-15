@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kwiatkowski31
-- 👀 I’m interested in game development in java
+- 👀 I’m interested in java and dart/flutter
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
